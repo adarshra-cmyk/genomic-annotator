@@ -1,0 +1,7 @@
+variant_id,gene,condition,description
+rs238242,VHL,VHL syndrome,Well-studied pathogenic variant
+rs7527068,TCF7L2,Type 2 diabetes,Common diabetes risk variant
+rs142513484,BRCA1,Breast cancer,Potential BRCA1 variant
+chr1:12345:A>G,Unknown,Unknown,Example genomic coordinate
+chr17:41197708:C>A,BRCA1,Breast cancer,BRCA1 missense variant
+rs12345,TEST,Unknown,Non-existent variant for testing error handling
