@@ -144,7 +144,7 @@ Failed annotations are marked as unsuccessful but don't stop batch processing.
 ## Example Output
 
 ```
-=== ANNOTATION RESULTS FOR: rs238242 ===
+ANNOTATION RESULTS FOR: rs238242
 
 MYVARIANT:
   Success: True
